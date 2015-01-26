@@ -2,8 +2,11 @@ BUZZFEED
 =======
 
 Print on the screen, the numbers 1 to 10000.
+
 Numbers that are divisible by 3 should print out Buzz
+
 Numbers that are divisible by 5 should print out Feed.
+
 Numbers that are divisible by 3 and 5 should print BuzzFeed
 
 TEST
